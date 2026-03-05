@@ -1,0 +1,51 @@
+
+
+SELECT * FROM ADDRESS;
+
+SELECT * FROM SUBJECTS;
+
+SELECT * FROM STUDENTS;
+
+SELECT * FROM PARENTS;
+
+SELECT * FROM SCHOOL;
+
+SELECT * FROM STAFF;
+
+SELECT * FROM STAFF_SALARY;
+
+SELECT * FROM CLASSES;
+
+SELECT * FROM STUDENT_CLASSES;
+
+SELECT * FROM STUDENT_PARENT;
+
+SELECT * FROM department;
+
+SELECT * FROM manager;
+
+SELECT * FROM employee;
+
+SELECT * FROM projects;
+
+SELECT * FROM employee2;
+
+SELECT * FROM sales;
+
+SELECT * FROM company;
+
+SELECT * FROM product;
+
+SELECT * FROM family;
+
+SELECT * FROM departments0;
+
+SELECT * FROM employees0;
+
+SELECT * FROM employee_history0;
+
+
+
+
+
+
