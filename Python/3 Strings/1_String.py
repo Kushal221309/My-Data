@@ -3,6 +3,9 @@ Length of String ("Name") -
     "Name"
      0123 OR -4-3-2-1 (total 4 string)
 
+     
+Slicing = variable[start:stop:step]
+
 """
 
 
@@ -15,6 +18,6 @@ Character = Name[2]
 print(Character)
 
 # slicing Techniques
-Slicing = Name[1:5:3] # ...
+Slicing = Name[1:5:3] # start = 3, stop = 5, step = 3 (jump)
 print(Slicing)
 
